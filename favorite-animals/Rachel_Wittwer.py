@@ -1,0 +1,1 @@
+print("Manatees are my favorite animals")
